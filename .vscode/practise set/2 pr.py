@@ -1,0 +1,8 @@
+num1 = input("Enter number 1")
+num2 = input("Enter number 2")
+num3 = input("Enter number ")
+num4 = input("Enter number ")
+num5 = input("Enter number ")
+num6 = input("Enter number ")
+num7 = input("Enter number ")
+num8 = input("Enter number ")
