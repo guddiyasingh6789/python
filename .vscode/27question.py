@@ -1,0 +1,5 @@
+# 2. QUESTION
+# CHECK THAT A TUPLE CAN'NT BE CHANGED IN PYTHON
+a = (1, 2, 3, 4, 5)
+a[0] = 34
+print(a[0])
